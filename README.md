@@ -7,7 +7,7 @@ The code is separated into three Jupyter notebooks.
 
 * **dynamic_mode_decomp.ipynb**: Chapter 2 code to perform dynamic mode decomposition.
 * **clustering.ipynb**: code to run a hierarchical and k-means clustering on county death series, as described in Chapter 3.
-* **political_analysis.ipynb**: the remaining Chapter 3 code that performs the descriptive and regression analysis as well as generate figures.
+* **political_analysis.ipynb**: the remaining Chapter 3 code that performs the descriptive and regression analyses as well as generate figures.
 
 ## Data
 
@@ -26,4 +26,4 @@ The data folder contains publically available and self-generated datasets that I
 
 ## Figures
 
-Copies of figures. Most figures are saved as .svg files because paper figures were compiled using Powerpoint. Any figures that were includes directly in the paper are saved as .pdf. Images are organized by chapter.
+Copies of figures. Most figures are saved as .svg files because paper figures were compiled using Powerpoint. Any figures that were included directly in the paper are saved as .pdf. Images are organized by chapter.
