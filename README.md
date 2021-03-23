@@ -1,5 +1,5 @@
 # Senior Thesis README
-Code base for undergraduate thesis
+Code base for my Applied Math undergraduate thesis
 
 ## Code
 
