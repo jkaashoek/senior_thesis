@@ -27,7 +27,7 @@ The data folder contains publically available and self-generated datasets that I
 * **SVI2018_US_COUNTY.csv**: Social Vulnerability Index data provided by the CDC. [Original data source.](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
 * **time_series_covid19_confirmed_US.csv**: US county-level COVID-19 cases from Johns Hopkins. Not currently used in the analysis. The last data pull was February 12, 2021. [Original data source.](https://github.com/CSSEGISandData/COVID-19)
 * **time_series_covid19_deaths_US.csv**: US county-level COVID-19 deaths from Johns Hopkins. The last data pull was February 12, 2021. [Original data source.](https://github.com/CSSEGISandData/COVID-19)
-* **us census bureau regions and divisions.csv**: Census bureau and regions provided by Chris Halpert [Original data source.](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv)
+* **us census bureau regions and divisions.csv**: Census bureau and regions provided by Chris Halpert. [Original data source.](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv)
 * **vale_eligible_airports.csv**: FAA airport emissions tracking, used to link airport codes to counties. [Original data source.](https://www.faa.gov/airports/environmental/vale/)
 
 ## Figures
