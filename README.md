@@ -1,5 +1,7 @@
 # Senior Thesis README
-Code base for my Applied Math undergraduate thesis
+Code base for my Applied Math undergraduate thesis. All requirements can be found in requirements.txt and can be installed with 
+`pip install -r requirements.txt `
+
 
 ## Code
 
@@ -18,11 +20,15 @@ The data folder contains publically available and self-generated datasets that I
 * **governor_affiliation.csv**: Self-generated party affiliations of governors. This dataset is not really used in the code anymore but was at one point. [Original data table.](https://ballotpedia.org/Partisan_composition_of_governors)
 * **incarceration_trends.csv**: Incarceration data provided by the VERA Institute. [Original data source.](https://github.com/vera-institute/incarceration-trends)
 * **International_Report_Passengers.csv**: International travel data provided by the Department of Transportation. [Original data source.](https://data.transportation.gov/Aviation/International_Report_Passengers/xgub-n9bw) 
+* **LND01.csv**: Land area data provided by the Census Bureau. [Original data source.](https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html)
 * **nursing.csv**: Nursing home data provided by CMS. [Original data source.](https://data.cms.gov/provider-data/dataset/4pq5-n9py)
 * **OxCGRT_US_latest.csv**: COVID-19 government interventions in the US provided by OxCGRT. [Original data source.](https://github.com/OxCGRT/USA-covid-policy) 
-* **PLACES__Local_Data_for_Better_Health__County_Data_2020_release.csv**: PLACES dataset containing obesity data provided by the CDC. [Original data source.](https://nccd.cdc.gov/PLACES/rdPage.aspx?rdReport=DPH_500_Cities.ComparisonReport). 
+* **PLACES__Local_Data_for_Better_Health__County_Data_2020_release.csv**: PLACES dataset containing obesity data provided by the CDC. [Original data source.](https://nccd.cdc.gov/PLACES/rdPage.aspx?rdReport=DPH_500_Cities.ComparisonReport)
 * **SVI2018_US_COUNTY.csv**: Social Vulnerability Index data provided by the CDC. [Original data source.](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
+* **time_series_covid19_confirmed_US.csv**: US county-level COVID-19 cases from Johns Hopkins. Not currently used in the analysis. The last data pull was February 12, 2021. [Original data source.](https://github.com/CSSEGISandData/COVID-19)
 * **time_series_covid19_deaths_US.csv**: US county-level COVID-19 deaths from Johns Hopkins. The last data pull was February 12, 2021. [Original data source.](https://github.com/CSSEGISandData/COVID-19)
+* **us census bureau regions and divisions.csv**: Census bureau and regions provided by Chris Halpert [Original data source.](https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv)
+* **vale_eligible_airports.csv**: FAA airport emissions tracking, used to link airport codes to counties. [Original data source.](https://www.faa.gov/airports/environmental/vale/)
 
 ## Figures
 
