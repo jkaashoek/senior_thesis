@@ -27,21 +27,21 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="BrokenBarHCollection_1">
-    <path clip-path="url(#p527f9f1dde)" d="M 19.881818 75.131903 
+    <path clip-path="url(#pe0c2e79270)" d="M 19.881818 75.131903 
 L 19.881818 25.713722 
 L 69.695058 25.713722 
 L 69.695058 75.131903 
 L 19.881818 75.131903 
 z
 " style="fill:#66c2a5;fill-opacity:0.8;stroke:#66c2a5;stroke-opacity:0.8;"/>
-    <path clip-path="url(#p527f9f1dde)" d="M 69.695058 75.131903 
+    <path clip-path="url(#pe0c2e79270)" d="M 69.695058 75.131903 
 L 69.695058 25.713722 
 L 108.627838 25.713722 
 L 108.627838 75.131903 
 L 69.695058 75.131903 
 z
 " style="fill:#fc8d62;fill-opacity:0.8;stroke:#fc8d62;stroke-opacity:0.8;"/>
-    <path clip-path="url(#p527f9f1dde)" d="M 108.627838 75.131903 
+    <path clip-path="url(#pe0c2e79270)" d="M 108.627838 75.131903 
 L 108.627838 25.713722 
 L 273.518182 25.713722 
 L 273.518182 75.131903 
@@ -547,7 +547,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p527f9f1dde">
+  <clipPath id="pe0c2e79270">
    <rect height="54.36" width="279" x="7.2" y="23.242812"/>
   </clipPath>
  </defs>
