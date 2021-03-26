@@ -33,3 +33,7 @@ The data folder contains publically available and self-generated datasets that I
 ## Figures
 
 Copies of figures. Most figures are saved as .svg files because paper figures were compiled using Powerpoint. Any figures that were included directly in the paper are saved as .pdf. Images are organized by chapter.
+
+## Shapefiles
+
+Contain the county, state, and region shapefiles for the United States as provided by the Census Bureau. These are used for plotting purposes in both the dynamic mode decomposition code and the political analysis code. Original download links can be found [here](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
